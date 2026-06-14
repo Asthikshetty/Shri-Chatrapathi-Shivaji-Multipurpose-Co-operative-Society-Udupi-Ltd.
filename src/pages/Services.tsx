@@ -3,6 +3,8 @@ import { useLocation } from 'react-router-dom';
 import { CreditCard, Landmark, Coins, Briefcase, CheckCircle, Percent, Users, Building, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { SEO } from '../components/SEO';
+import { LanguageSwitcherWrapper } from '../components/LanguageSwitcherWrapper';
+
 
 
 // Local Asset Imports
@@ -223,6 +225,8 @@ export const Services: React.FC = () => {
           </p>
         </div>
       </section>
+
+      <LanguageSwitcherWrapper backgroundColor="#FFFDF8" />
 
       {/* SWABHIMAN FD RATES TABLE & JEEJA MATHA SCHEME */}
       <section className="py-16 bg-[#FFFDF8] text-left" id="schemes">

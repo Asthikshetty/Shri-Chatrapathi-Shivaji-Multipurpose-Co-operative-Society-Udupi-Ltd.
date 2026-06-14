@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { Calendar, ChevronLeft, ChevronRight, X, ZoomIn } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { SEO } from '../components/SEO';
+import { LanguageSwitcherWrapper } from '../components/LanguageSwitcherWrapper';
+
 
 
 // Local Asset Imports
@@ -84,6 +86,8 @@ export const Gallery: React.FC = () => {
           </p>
         </div>
       </section>
+
+      <LanguageSwitcherWrapper backgroundColor="#FFFFFF" />
 
       {/* MASONRY IMAGE GALLERY SECTION (No Filters) */}
       <section className="py-16 bg-white">

@@ -105,9 +105,8 @@ export const Navbar: React.FC = () => {
             ))}
           </nav>
 
-          {/* Right: Member Login Button */}
+          {/* Right Section */}
           <div className="flex items-center gap-3">
-            
             {/* Mobile Hamburger Button */}
             <button
               onClick={() => setIsDrawerOpen(true)}

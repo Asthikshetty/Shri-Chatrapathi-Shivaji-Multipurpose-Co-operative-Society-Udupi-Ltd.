@@ -1,6 +1,8 @@
 import React from 'react';
 import { FileText, Download, ShieldAlert, CheckCircle } from 'lucide-react';
 import { SEO } from '../components/SEO';
+import { LanguageSwitcherWrapper } from '../components/LanguageSwitcherWrapper';
+
 
 // Local Asset Import
 import downloadBanner from '../assets/shivajisociety/images/inside-office.png';
@@ -122,6 +124,8 @@ const handleDownload = (fileUrl: string) => {
           </p>
         </div>
       </section>
+
+      <LanguageSwitcherWrapper backgroundColor="#FFFDF8" />
 
       {/* DOWNLOAD CATEGORIES */}
       <section className="py-16 bg-[#FFFDF8] text-left">

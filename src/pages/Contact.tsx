@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { Phone, Mail, MapPin, Clock, Send, CheckCircle, BellRing } from 'lucide-react';
 import { SEO } from '../components/SEO';
+import { LanguageSwitcherWrapper } from '../components/LanguageSwitcherWrapper';
+
 
 
 interface FormState {
@@ -117,6 +119,8 @@ export const Contact: React.FC = () => {
           </p>
         </div>
       </section>
+
+      <LanguageSwitcherWrapper backgroundColor="#FFFFFF" />
 
       {/* MAIN CONTENT AREA */}
       <section className="py-16 bg-white">

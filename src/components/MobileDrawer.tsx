@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink, Link, useLocation } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, User } from 'lucide-react';
+import { X } from 'lucide-react';
 import logoImg from '../assets/logo.jpg';
 
 interface MobileDrawerProps {

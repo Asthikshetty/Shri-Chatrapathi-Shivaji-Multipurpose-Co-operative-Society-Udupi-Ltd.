@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, ShieldCheck, Users, Calendar, Building, TrendingUp, CheckCircle2, ChevronLeft, ChevronRight, MapPin, Phone, Mail } from 'lucide-react';
 import { SEO } from '../components/SEO';
+import { LanguageSwitcherWrapper } from '../components/LanguageSwitcherWrapper';
+
 
 // Local Asset Imports
 import hero1 from '../assets/shivajisociety/images/vip1.png';
@@ -220,6 +222,8 @@ export const Home: React.FC = () => {
           ))}
         </div>
       </section>
+
+      <LanguageSwitcherWrapper backgroundColor="#FFFDF8" />
 
       {/* SECTION 3: HERO SECTION (Warm White background, 2-column) */}
       <section className="bg-[#FFFDF8] py-12 md:py-20 relative overflow-hidden select-none">
