@@ -442,12 +442,12 @@ export const Home: React.FC = () => {
             <div className="flex flex-col gap-5">
               <span className="text-xs text-[#FF9900] font-bold uppercase tracking-wider">About Our Society</span>
               <h2 className="text-2xl sm:text-3xl font-serif font-extrabold text-[#5B4636] leading-tight m-0">
-                Shri Chathrapathi Shivaji Multipurpose Co-operative Society Ltd.
+                Chathrapathi Shivaji Multipurpose Co-operative Society Ltd.
               </h2>
               <div className="w-16 h-1 bg-[#FF9900] rounded-full"></div>
 
               <p className="text-sm sm:text-base text-[#5B4636]/80 leading-relaxed font-semibold">
-                Shri Chathrapathi Shivaji Multipurpose Co-operative Society Ltd. is committed to providing reliable financial services and member welfare initiatives. The society works towards financial inclusion, community development, savings growth, and affordable credit facilities for its members.
+                Chathrapathi Shivaji Multipurpose Co-operative Society Ltd. is committed to providing reliable financial services and member welfare initiatives. The society works towards financial inclusion, community development, savings growth, and affordable credit facilities for its members.
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 border-t border-b border-[#D4AF37]/15 py-4 my-2">
@@ -666,7 +666,7 @@ export const Home: React.FC = () => {
               className="w-full h-full border-0 absolute inset-0"
               allowFullScreen={true}
               loading="lazy"
-              title="Shri Chathrapathi Shivaji Multipurpose Co-operative Society Location in Udupi"
+              title="Chathrapathi Shivaji Multipurpose Co-operative Society Location in Udupi"
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
           </div>
