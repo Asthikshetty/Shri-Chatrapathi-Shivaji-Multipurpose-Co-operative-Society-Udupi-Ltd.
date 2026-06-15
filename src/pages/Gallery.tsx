@@ -31,7 +31,7 @@ export const Gallery: React.FC = () => {
     { id: 2, title: "Farmers Micro-Credit Assistance Drive", category: "Community Welfare Activities", date: "October 2025", image: img2, color: "from-green-600 to-[#FF9900]" },
     { id: 3, title: "Gold Loan Security Locker Cabinets", category: "Society Events", date: "March 2024", image:img3, color: "from-[#FF9900] to-[#D4AF37]" },
     { id: 4, title: "State Union Audit Excellence Recognition", category: "Certificates and Awards", date: "July 2025", image: img4, color: "from-purple-600 to-[#FF9900]" },
-    { id: 5, title: "Doorstep Pigmy Ledger Collector Setup", category: "Year-wise Achievements", date: "January 2024", image: img5, color: "from-[#5B4636] to-[#FF9900]" },
+    { id: 5, title: "Doorstep Pigmy Ledger Collector Setup", category: "Year-wise Achievements", date: "January 2024", image: img1, color: "from-[#5B4636] to-[#FF9900]" },
     { id: 6, title: "Local Micro-Traders Loan Distribution", category: "Loan Distribution Programs", date: "November 2025", image: img6, color: "from-[#D4AF37] to-amber-700" }
   ];
 
