@@ -526,9 +526,7 @@ export const Home: React.FC = () => {
   backgroundImage: `linear-gradient(
     rgba(12, 2, 2, 0.05),
     rgba(255, 255, 255, 0.05)
-  ), url(${serv.image})`
-}}
-                  }}                >
+  ), url(${serv.image})`}}>
                   <span className="px-3 py-1 bg-white border border-[#D4AF37]/35 text-[#5B4636] text-[10px] font-extrabold rounded-md uppercase tracking-wider w-fit z-10 shadow-sm">
                     Active Scheme
                   </span>
@@ -654,7 +652,6 @@ export const Home: React.FC = () => {
       {/* MAP SECTION (Google Maps Embed responsive, Karthik Towers) */}
       <section className="py-16 bg-white border-b border-[#D4AF37]/15">
         <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
-
           <div className="text-center max-w-3xl mx-auto mb-8 select-none">
             <span className="text-xs text-[#FF9900] font-bold uppercase tracking-wider">Location</span>
             <h2 className="text-2xl sm:text-3xl font-serif font-extrabold text-[#5B4636] mt-1.5">Visit Our Office</h2>
@@ -679,7 +676,6 @@ export const Home: React.FC = () => {
       <section className="py-16 bg-[#FFFDF8]" id="contact-section">
         <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start text-left">
-
             {/* Contact Details */}
             <div className="lg:col-span-5 flex flex-col gap-6">
               <span className="text-xs text-[#FF9900] font-bold uppercase tracking-wider">Get In Touch</span>
