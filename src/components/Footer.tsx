@@ -24,7 +24,7 @@ export const Footer: React.FC = () => {
               />
               <div className="flex flex-col">
                 <span className="text-base font-serif font-bold text-[#5B4636] leading-tight">
-                  Shri Chathrapathi Shivaji
+                  Chathrapathi Shivaji
                 </span>
                 <span className="text-xs text-[#D4AF37] font-bold">
                   Multipurpose Co-operative Society Ltd.
@@ -129,7 +129,7 @@ export const Footer: React.FC = () => {
       <div className="bg-[#FF9900] py-5 text-center text-xs text-white border-t border-[#D4AF37]/30">
         <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4 font-semibold tracking-wide">
           <p>
-            © {currentYear} Shri Chathrapathi Shivaji Multipurpose Co-operative Society Ltd. All rights reserved.
+            © {currentYear} Chathrapathi Shivaji Multipurpose Co-operative Society Ltd. All rights reserved.
           </p>
 <p className="text-orange-50 font-medium">
   Developed by{" "}
