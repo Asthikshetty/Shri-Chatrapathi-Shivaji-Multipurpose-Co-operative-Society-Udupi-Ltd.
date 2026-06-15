@@ -67,7 +67,7 @@ export const Navbar: React.FC = () => {
             />
             <div className="flex flex-col">
               <span className="text-base sm:text-lg font-serif font-bold text-[#5B4636] leading-tight group-hover:text-[#FF9900] transition-colors">
-                Shri Chathrapathi Shivaji
+                Chathrapathi Shivaji
               </span>
               <span className="text-[10px] sm:text-xs text-[#D4AF37] font-sans font-bold tracking-wider uppercase">
                Multipurpose Co-operative Society Ltd Udupi.
