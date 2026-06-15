@@ -36,7 +36,7 @@ export const About: React.FC = () => {
       name: "Sri. DINESH C NAIK",
       role: "PRESIDENT",
       image: presidentImg,
-      description: "Sri. Dinesh C Naik heads the society with extensive leadership experience in co-operative management. Under his stewardship, the society has prioritized member trust, capital adequacy, and strict adherence to regulatory norms. He drives the long-term vision of Shri Chathrapathi Shivaji Co-operative Society."
+      description: "Sri. Dinesh C Naik is an Advocate heads the society with extensive leadership experience in co-operative management. Under his stewardship, the society has prioritized member trust, capital adequacy, and strict adherence to regulatory norms. He drives the long-term vision of Chathrapathi Shivaji Co-operative Society."
     },
     {
       name: "Sri. GANESH",
@@ -59,7 +59,7 @@ export const About: React.FC = () => {
       image: vip3,
       shortBio: "Advises on accounting, audit compliance, and general assembly records.",
       fullBio: "Sri. Raghunath Naik coordinates with state auditing authorities to verify balance sheets and check that every co-operative transaction complies with the Karnataka Co-operative Societies Act 1959.",
-      email: "raghunath@shivajicooperative.in"
+  
     },
     {
       name: "Sri. KRISHNA NAIK",
@@ -67,7 +67,7 @@ export const About: React.FC = () => {
       image: vip4,
       shortBio: "Guides fixed deposit schemes and senior citizen interest distributions.",
       fullBio: "Sri. Krishna Naik focuses on expanding deposit portfolios. He designs flexible monthly/quarterly interest payout structures for fixed and recurring deposits.",
-      email: "krishna@shivajicooperative.in"
+    
     },
     {
       name: "Sri. LAXMANA NAIK",
@@ -75,7 +75,7 @@ export const About: React.FC = () => {
       image: vip5,
       shortBio: "Oversees low-interest agricultural loans and crop credit facilities.",
       fullBio: "Sri. Laxmana Naik is dedicated to agrarian empowerment. He designs seasonal crop credit limits, irrigation machinery financing, and farm loan verification programs.",
-      email: "laxmana@shivajicooperative.in"
+    
     },
     {
       name: "Sri. RAJU C NAIK",
@@ -83,7 +83,7 @@ export const About: React.FC = () => {
       image: vip6,
       shortBio: "Directs vehicle credit limits and small commercial trader loans.",
       fullBio: "Sri. Raju C Naik advises the credit appraisal committee on vehicle financing and working capital loan limits to help micro-businesses in Udupi expand.",
-      email: "raju@shivajicooperative.in"
+    
     },
     {
       name: "Sri. HARISH",
@@ -91,7 +91,7 @@ export const About: React.FC = () => {
       image: vip7,
       shortBio: "Manages gold appraisal systems and secure vault operations.",
       fullBio: "Sri. Harish oversees branch vault operations. He ensures gold evaluation audits use correct weighing and testing procedures to guarantee asset safety.",
-      email: "harish@text.in"
+    
     },
     {
       name: "Sri. CHANDRA H NAIK",
@@ -99,7 +99,7 @@ export const About: React.FC = () => {
       image: vip3,
       shortBio: "Drives localized welfare initiatives and public relations.",
       fullBio: "Sri. Chandra H Naik focuses on micro-finance programs and local co-operative awareness events. He ensures cooperative values drive our neighborhood outreach.",
-      email: "chandra@shivajicooperative.in"
+      
     },
     {
       name: "Sri. SATHISH NAIK",
@@ -107,7 +107,7 @@ export const About: React.FC = () => {
       image: vip4,
       shortBio: "Advises on digital banking upgrades, SMS alerts, and server safety.",
       fullBio: "Sri. Sathish Naik guides technological integrations including secure text banking alerts, automated statement servers, and ledger digitalization setups.",
-      email: "sathish@shivajicooperative.in"
+    
     },
     {
       name: "Sri. KARUNAKARA KANCHAN",
@@ -115,7 +115,7 @@ export const About: React.FC = () => {
       image: vip5,
       shortBio: "Supervises mortgage valuations and property credit frameworks.",
       fullBio: "Sri. Karunakara Kanchan evaluates properties for long-term mortgage loans. He verifies legal land documents and ensures fair asset valuations.",
-      email: "karunakara@shivajicooperative.in"
+    
     },
     {
       name: "Sri. SHEKHAR D SHETTY",
@@ -123,7 +123,7 @@ export const About: React.FC = () => {
       image: vip6,
       shortBio: "Ensures democratic voting values and policy coordination.",
       fullBio: "Sri. Shekhar D Shetty manages policy amendments during the general body meet and guarantees equal shareholder rights inside society votes.",
-      email: "shekhar@shivajicooperative.in"
+      
     },
     {
       name: "Smt. JYOTHI M SHETTY",
@@ -131,7 +131,7 @@ export const About: React.FC = () => {
       image: vip7,
       shortBio: "Coordinates women's self-help groups (SHG) micro-credit schemes.",
       fullBio: "Smt. Jyothi M Shetty champions female financial inclusion. She designs self-help group savings programs and provides cottage industry credit access.",
-      email: "jyothi@shivajicooperative.in"
+    
     },
     {
       name: "Smt. SHOBHA",
@@ -139,7 +139,6 @@ export const About: React.FC = () => {
       image: vip3,
       shortBio: "Advocates for women shareholders and family deposit plans.",
       fullBio: "Smt. Shobha represents women members during executive reviews. She advocates for high-yield family savings plans and local welfare program funding.",
-      email: "shobha@shivajicooperative.in"
     }
   ];
 
@@ -161,7 +160,7 @@ export const About: React.FC = () => {
             Board of Directors
           </h1>
           <p className="mt-2 text-xs sm:text-sm md:text-base text-[#F6E7B0] font-sans font-bold tracking-widest uppercase">
-            Governing with Trust & Financial Security Since 2013
+            Governing with Trust & Financial Security Since 2014
           </p>
         </div>
       </section>
@@ -179,7 +178,7 @@ export const About: React.FC = () => {
               <div className="w-12 h-1 bg-[#FF9900] rounded-full"></div>
               
               <p className="text-sm sm:text-base text-[#5B4636]/80 leading-relaxed font-semibold">
-                Shri Chathrapathi Shivaji Co-operative Society Ltd. operates under democratic principles where every shareholder has an equal voice. Our primary objective is to channel local savings back into localized gold, agriculture, mortgage, and vehicle credit limits to empower Udupi families.
+                Chathrapathi Shivaji Co-operative Society Ltd. operates under democratic principles where every shareholder has an equal voice. Our primary objective is to channel local savings back into localized gold, agriculture, mortgage, and vehicle credit limits to empower Udupi families.
               </p>
               
               <div className="flex flex-wrap gap-4 mt-2 select-none">
